@@ -25,7 +25,7 @@ Experian is a credit reporting company that defines the following ranges for cre
 
 ## Before the interview
 
-- Make sure you can run the project locally (`pytest` should run the tests).
+- Make sure you can run the project locally (`poetry run pytest` should run the tests).
 - Get familiar with the existing code.
 - Imagine this code was written a long time ago by an intern.
 - Don't write any code.
