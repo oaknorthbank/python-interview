@@ -1,8 +1,8 @@
 ## Running the project
 
-poetry env use python
-poetry install
-poetry run pytest
+- `poetry env use python`
+- `poetry install`
+- `poetry run pytest`
 
 ## Context
 

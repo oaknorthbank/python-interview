@@ -2,7 +2,7 @@
 name = "credit_score_calculator"
 version = "0.1.0"
 description = ""
-authors = ["raphaella-rose <raphaella.rose1@gmail.com>"]
+authors = ["Raphaella D'Alessandro", "Amina Layco"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
