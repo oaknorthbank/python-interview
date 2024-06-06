@@ -1,5 +1,9 @@
 ## Running the project
 
+poetry env use python
+poetry install
+poetry run pytest
+
 ## Context
 
 This project contains a first version of a simplified function that calculates a credit score given a credit report.
