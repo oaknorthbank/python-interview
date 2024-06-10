@@ -29,7 +29,6 @@ Experian is a credit reporting company that defines the following ranges for cre
 - Get familiar with the existing code.
 - Imagine this code was written a long time ago by an intern.
 - Don't write any code.
-- Previous Python knowledge isn't required but, since our codebase is in Python, we expect you to be able to contribute to this existing code.
 
 During the interview, we'll ask you to expand the current implementation of the credit score function and update tests accordingly. You'll have around 45 minutes for this.
 
